@@ -1,0 +1,40 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/"
+        },
+        {
+            "src": "/shop",
+            "dest": "/"
+        },
+        {
+            "src": "/mens",
+            "dest": "/"
+        },
+        {
+            "src": "/womens",
+            "dest": "/"
+        },
+        {
+            "src": "/kids",
+            "dest": "/"
+        },
+        {
+            "src": "/product",
+            "dest": "/"
+        },
+        {
+            "src": "/productId",
+            "dest": "/"
+        },
+        {
+            "src": "/cart",
+            "dest": "/"
+        },
+        {
+            "src": "/login",
+            "dest": "/"
+        }
+    ]
+}
